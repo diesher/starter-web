@@ -9,6 +9,7 @@ of the Git repository and various commands
 
 ##Purpose
 XXXXXXXXX
+bla bla bla
 
 ##Deployment
 XXXXXXXXXXXXXXXXX
