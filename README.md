@@ -14,6 +14,9 @@ XXXXXXXXX
 XXXXXXXXXXXXXXXXX
 
 ##How to contribute
+this will wxplain to how contribute to the project
+bla bla
 
 ## New deployment
 this is a simple test to show you how git diff is working
+bla bla la
