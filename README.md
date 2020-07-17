@@ -24,4 +24,4 @@ bla bla
 this is a simple test to show you how git diff is working
 bla bla la
 ### Copyright
-Git.training 2020
+Git.training 2020. All rights reserved.
